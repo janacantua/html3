@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background: url("images/textureorange.jpg") no-repeat;
+	background-repeat: no-repeat;
+    background-size: cover;
+	
+}
